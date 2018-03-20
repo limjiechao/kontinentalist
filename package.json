@@ -1,0 +1,19 @@
+{
+  "name": "kontinentalist",
+  "version": "1.0.0",
+  "description": "Kontinenalist Technical Test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limjiechao/kontinentalist.git"
+  },
+  "author": "Lim Jiechao <jiechao.lim@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/limjiechao/kontinentalist/issues"
+  },
+  "homepage": "https://github.com/limjiechao/kontinentalist#readme"
+}
