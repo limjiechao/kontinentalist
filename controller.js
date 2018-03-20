@@ -4,6 +4,7 @@ const unirest = require('unirest');
 // const config = require('./config');
 // const APP_KEY = config.APP_KEY;
 
+const APP_KEY = process.env.APP_KEY;
 const API_URL = 'https://andruxnet-random-famous-quotes.p.mashape.com/';
 const COUNT = 1;
 
