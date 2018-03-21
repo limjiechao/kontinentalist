@@ -60,7 +60,7 @@ If the API rate limit is reached, just for fun, the error message will also be r
 - Wrote API `get` request through `unirest`
 - Created template to display retrieved quote
 
-**20/03/2018**
+**21/03/2018**
 
 - Added `if-else` statement checking the status code of API call to detect error message
 - Deployed to Heroku
